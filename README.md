@@ -1,0 +1,2 @@
+# goalss.txt
+My Learning Goals: 1. Master version control with Git 2. Learn web development 3. Build software projects
